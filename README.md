@@ -135,8 +135,6 @@ $$
 **Install**
 
 ```bash
-git clone <your-repo-url>.git
-cd <your-repo>
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
